@@ -1,0 +1,38 @@
+.v
+{
+    background-color:#4e555b;
+    height: 300px;
+    solid-color: #0056b3;
+}
+.a
+{
+    color:white;
+    background-color: blue;
+
+}
+.y
+{
+    background-color:white;
+    height: 200px;
+    padding-left: 20px;
+    margin-left: 20px;
+}
+
+.z
+{
+    background-color: wheat;
+    height: 200px;
+}
+.q
+{
+    background-color: darkred;
+    width: 20%;
+    float: left;
+
+    height: 600px;
+    margin-right: 20px;
+}
+.x
+{
+    height: 600px;
+}
